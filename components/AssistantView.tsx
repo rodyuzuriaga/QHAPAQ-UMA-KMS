@@ -276,7 +276,6 @@ const AssistantView: React.FC<AssistantViewProps> = ({ initialQuery, clearInitia
             default: return <span className="text-neutral-500">Inactivo</span>;
         }
     }
-
     return (
         <section className="py-6 bg-gradient-to-b from-white to-amber-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
