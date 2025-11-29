@@ -10,7 +10,7 @@ const HomeView: React.FC<HomeViewProps> = ({ setView }) => {
     return (
         <div>
             {/* Hero Section */}
-            <section className="relative overflow-hidden py-20 sm:py-32">
+            <section className="relative overflow-hidden py-20 sm:py-8">
                 <div className="absolute inset-0 bg-gradient-to-br from-amber-100/40 via-orange-50/30 to-transparent"></div>
                 <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid lg:grid-cols-2 gap-12 items-center">
