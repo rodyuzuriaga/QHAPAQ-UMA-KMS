@@ -1,0 +1,8 @@
+{
+  "name": "QHAPAQ - Guardián del Conocimiento",
+  "description": "Un sistema de gestión del conocimiento para la preservación del material fitogenético de la papa nativa del Perú, impulsado por IA. Integra conocimiento científico y ancestral sobre variedades, plagas y técnicas de cultivo.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
